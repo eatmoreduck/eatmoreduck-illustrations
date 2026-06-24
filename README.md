@@ -257,6 +257,18 @@ eatmoreduck-illustrations/
 
 ---
 
+## 关于作者
+
+**多吃鸭 (eatmoreduck)**
+
+- GitHub: [eatmoreduck](https://github.com/eatmoreduck)
+
+<p>
+  <img src="assets/wechat.png" alt="多吃鸭 微信二维码" width="160">
+</p>
+
+---
+
 ## 致谢
 
 本仓库 fork 自 [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)，由 Ian 创作。在原“小黑”IP 和风格 DNA 基础上，替换为“多吃鸭 (eatmoreduck)”IP，并新增三个颜色变体。感谢原作者开放这套优秀的配图方法论。详见 [NOTICE.md](NOTICE.md)。
